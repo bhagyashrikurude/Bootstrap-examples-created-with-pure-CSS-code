@@ -1,0 +1,27 @@
+body{
+    background-color: #DEDEDE;
+}
+.container{
+    margin: 0px 110px;
+    padding: 0px 12px;
+}
+.header{
+    font: 16px system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    margin-bottom: 24px;
+    padding: 16px 12px;
+    background-color: white;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+.list{
+    display: inline-flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding-left: 660px;
+}
+.active{
+    background-color: #0d6efd;
+    color: white;
+}
+.navpadding{
+    padding: 8px 16px;
+}
